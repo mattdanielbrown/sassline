@@ -7,7 +7,7 @@
     "url": "https://github.com/designbyjake/sassline.git"
   },
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^5.0.1",
     "gulp-sass": "^2.1.1",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-clean-css": "^2.0.2",
